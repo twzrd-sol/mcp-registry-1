@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/1529926?v=4
 source:
   project: https://github.com/redis/mcp-redis
-  commit: 79fbb0c4f75879914a3edbfcda0526972b260592
+  commit: cf0939e1aa7a0179c0ed781e94a48e38cf25dba1
 config:
   description: Configure the connection to Redis
   secrets:
