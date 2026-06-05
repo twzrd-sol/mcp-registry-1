@@ -24,7 +24,7 @@ about:
 source:
   project: https://github.com/zscaler/zscaler-mcp-server
   branch: master
-  commit: 25eccadd1d476bb90cb415c468197ec0a802c8fa
+  commit: f84ce4f0ed48047614a4202ac311cbdf00ea9a10
 config:
   description: Configure the connection to the Zscaler Zero Trust Exchange API
   secrets:
