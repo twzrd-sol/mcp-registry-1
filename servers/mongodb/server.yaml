@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/11214950?v=4
 source:
   project: https://github.com/mongodb-js/mongodb-mcp-server
-  commit: 458b3c8f826640d21f17f5d71c526173f62bbd8b
+  commit: c8e9d73b6fc589931921b99f5465535caf0a1a8f
 config:
   description: Configure the connection to MongoDB
   secrets:
