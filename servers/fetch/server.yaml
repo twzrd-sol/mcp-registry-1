@@ -13,5 +13,5 @@ about:
 source:
   project: https://github.com/modelcontextprotocol/servers
   branch: main
-  commit: b1e1eb1a55847e0dcf78deb8ee821e2e46150a47
+  commit: f5054df1fb8665f4c224cf4f46d5314266ab5b45
   directory: src/fetch
